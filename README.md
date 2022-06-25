@@ -1,1 +1,2 @@
 # Week 05 Assignment
+This Assignment creates a simulation of a surf shop. The user can purchase any number of surfboards from 4 sizes: large, medium, small, and a surfboard for squirrels which is xxxsmall. At anytime in the program, the user can select from a number of options. They can reset the screen, purchase an item, display all of the purchase items, and display the purchased items' total costs. Finally the user can quit the program at whatever point they would like.
